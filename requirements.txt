@@ -1,0 +1,23 @@
+# Computer Vision
+opencv-python
+opencv-contrib-python
+ultralytics opencv-python
+
+
+# Numerical computations
+numpy
+scipy
+
+# Machine Learning / Deep Learning
+tensorflow
+keras
+torch
+torchvision
+
+# Image processing and plotting
+matplotlib
+Pillow
+
+# Optional but useful
+scikit-learn
+pandas
